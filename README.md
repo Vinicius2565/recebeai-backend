@@ -1,15 +1,3 @@
-
----
-
-# 📘 README — BACKEND
-
-Agora crie um `README.md` na raiz do backend.
-
-Cole isso:
-
----
-
-```md
 # ☕ Sistema de Gestão de Pedidos - Backend
 
 Backend desenvolvido com **Spring Boot** para gerenciamento de:
